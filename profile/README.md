@@ -11,5 +11,3 @@ Our work spans embedded controllers, interactive puzzles, real-time room managem
 - **Room automation** — Coordinated control and monitoring of interactive environments.
 - **Embedded systems** — Custom hardware and firmware for physical puzzles.
 - **Interactive experiences** — Sensors, lighting, sound, and synchronized effects.
-
-Most of our development repositories are private and maintained by our engineering team.
